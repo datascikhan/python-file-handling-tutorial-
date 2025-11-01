@@ -1,0 +1,3 @@
+Writing with 'with' statement.
+Second line.
+Appended line using with statement.
